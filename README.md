@@ -1,6 +1,6 @@
 # MagicIndicator
 
-此Fork是在原有项目的基础上兼容了ViewPager2
+此Fork在原有项目的基础上迁移到AndoridX，并加入了对ViewPager2的支持
 
 [![](https://jitpack.io/v/hackware1993/MagicIndicator.svg)](https://jitpack.io/#hackware1993/MagicIndicator)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MagicIndicator-green.svg?style=true)](https://android-arsenal.com/details/1/4252)
