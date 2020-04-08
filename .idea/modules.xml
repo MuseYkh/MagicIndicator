@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-MagicIndicator.iml" filepath="$PROJECT_DIR$/Android-MagicIndicator.iml" group="MagicIndicator" />
       <module fileurl="file://$PROJECT_DIR$/MagicIndicator.iml" filepath="$PROJECT_DIR$/MagicIndicator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/magicindicator/magicindicator.iml" filepath="$PROJECT_DIR$/magicindicator/magicindicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MagicIndicator/app" />
+      <module fileurl="file://$PROJECT_DIR$/magicindicator/magicindicator.iml" filepath="$PROJECT_DIR$/magicindicator/magicindicator.iml" group="MagicIndicator/magicindicator" />
     </modules>
   </component>
 </project>
